@@ -1,0 +1,12 @@
+cat <<EOT > .gitignore
+*.exe
+*.out
+a.out
+output_file
+input.txt
+output.txt
+.cph/
+.vscode/
+zyadhany/
+EOTzyadhany/
+zyadhany
